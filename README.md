@@ -1,5 +1,6 @@
 # CS-330  Comp Graphic and Visualization. 
 Gerardo Gonzalez. 
+<p>
 Southern New Hampshire University.  
 
 ## About.  
